@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Sathvik Chava 👋
 
-<!--
-**sathvikchava/sathvikchava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about data analytics, software development, and creating meaningful insights from data. Currently pursuing my Master of Science in Advanced Data Analytics at the University of North Texas, I bring a blend of technical skills and hands-on experience in data analysis and software engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 📍 Location: Texas, USA
+- 🎓 Education:
+  - **Master of Science in Advanced Data Analytics** (2024–Present), University of North Texas, TX, USA
+  - **Bachelor of Technology in Electronics and Instrumentation Engineering** (2019–2023), VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad, India.
+- 📧 Email: [sathvik.chava01@gmail.com](mailto:sathvik.chava01@gmail.com)
+- 🌐 LinkedIn: [Sathvik Chava](https://linkedin.com/in/sathvikchava)
+
+---
+## 🤝 Let's Collaborate!
+I’m always open to exploring exciting opportunities in data analytics, software development, and beyond. Feel free to reach out to discuss projects or collaborations!
